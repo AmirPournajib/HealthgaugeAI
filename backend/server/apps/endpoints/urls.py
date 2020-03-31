@@ -1,4 +1,3 @@
-# backend/server/apps/endpoints/urls.py file
 from django.conf.urls import url, include
 from rest_framework.routers import DefaultRouter
 
